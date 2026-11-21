@@ -1,0 +1,16 @@
+name: Idea
+description: Suggest a feature or a part GearCAD should have.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like GearCAD to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it would help
+      description: What are you trying to build or check? How do you do it today?

@@ -1,0 +1,47 @@
+name: Bug report
+description: Something in GearCAD doesn't work the way it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make GearCAD better! The more detail, the faster we can fix it.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      placeholder: |
+        1. Create a new Robot CAD
+        2. Add a 2x Beam
+        3. ...
+  - type: input
+    id: version
+    attributes:
+      label: GearCAD version
+      description: Help → About shows it.
+      placeholder: 0.1.0-alpha
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options: [Chrome, Edge, Firefox, Safari, Other]
+    validations:
+      required: true
+  - type: dropdown
+    id: workspace
+    attributes:
+      label: Where in GearCAD?
+      options: [Home screen, Build, Mechanism, Simulate, Render, History, Saving / files, Other]
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or .gearcad file
+      description: Drag pictures or a .gearcad file here if it helps show the problem.
