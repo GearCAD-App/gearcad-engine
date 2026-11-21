@@ -15,7 +15,7 @@ and run it in a physics simulation, all in your browser.
 
 [![Open GearCAD](https://img.shields.io/badge/Open_GearCAD-gearcadengine.web.app-0167FC?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gearcadengine.web.app)
 
-[![Latest release](https://img.shields.io/github/v/release/GearCAD-App/GearCAD-App?include_prereleases&sort=semver&label=release&color=32D1FC)](https://github.com/GearCAD-App/GearCAD-App/releases)
+[![Latest release](https://img.shields.io/github/v/release/GearCAD-App/gearcad-engine?include_prereleases&sort=semver&label=release&color=32D1FC)](https://github.com/GearCAD-App/gearcad-engine/releases)
 [![SemVer](https://img.shields.io/badge/versioning-SemVer-0167FC)](https://semver.org)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
@@ -23,8 +23,8 @@ and run it in a physics simulation, all in your browser.
 ![Firebase](https://img.shields.io/badge/Firebase_Hosting-DD2C00?logo=firebase&logoColor=white)
 
 [**Open the app**](https://gearcadengine.web.app) ·
-[**Releases**](https://github.com/GearCAD-App/GearCAD-App/releases) ·
-[**Report a bug**](https://github.com/GearCAD-App/GearCAD-App/issues/new/choose)
+[**Releases**](https://github.com/GearCAD-App/gearcad-engine/releases) ·
+[**Report a bug**](https://github.com/GearCAD-App/gearcad-engine/issues/new/choose)
 <!-- Add when ready:  · [**Docs**](https://<docs>.pages.dev) · [**Discord**](https://discord.gg/<invite>) -->
 
 </div>
@@ -77,12 +77,12 @@ GearCAD uses [Semantic Versioning](https://semver.org): `MAJOR.MINOR.PATCH`.
 
 Builds before a version is finished are marked **alpha**, **beta** or **rc**
 (`0.1.0-alpha`, `0.1.0-beta.2`). Every version that goes live on
-gearcadengine.web.app has a [release](https://github.com/GearCAD-App/GearCAD-App/releases)
+gearcadengine.web.app has a [release](https://github.com/GearCAD-App/gearcad-engine/releases)
 here with what changed. The version you're using is in **Help → About**.
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/GearCAD-App/GearCAD-App/issues/new/choose).
+Found a bug or have an idea? [Open an issue](https://github.com/GearCAD-App/gearcad-engine/issues/new/choose).
 Please include your GearCAD version (Help → About) and browser.
 
 ## Credits
