@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://gearcad.web.app">
+<a href="https://gearcadengine.web.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/banner-light.png">
@@ -13,7 +13,7 @@
 Build robots from the official VEX IQ parts, check how the mechanism moves,<br>
 and run it in a physics simulation, all in your browser.
 
-[![Open GearCAD](https://img.shields.io/badge/Open_GearCAD-gearcad.web.app-0167FC?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gearcad.web.app)
+[![Open GearCAD](https://img.shields.io/badge/Open_GearCAD-gearcadengine.web.app-0167FC?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gearcadengine.web.app)
 
 [![Latest release](https://img.shields.io/github/v/release/GearCAD-App/GearCAD-App?include_prereleases&sort=semver&label=release&color=32D1FC)](https://github.com/GearCAD-App/GearCAD-App/releases)
 [![SemVer](https://img.shields.io/badge/versioning-SemVer-0167FC)](https://semver.org)
@@ -22,7 +22,7 @@ and run it in a physics simulation, all in your browser.
 ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?logo=webgpu&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Hosting-DD2C00?logo=firebase&logoColor=white)
 
-[**Open the app**](https://gearcad.web.app) ·
+[**Open the app**](https://gearcadengine.web.app) ·
 [**Releases**](https://github.com/GearCAD-App/GearCAD-App/releases) ·
 [**Report a bug**](https://github.com/GearCAD-App/GearCAD-App/issues/new/choose)
 <!-- Add when ready:  · [**Docs**](https://<docs>.pages.dev) · [**Discord**](https://discord.gg/<invite>) -->
@@ -34,7 +34,7 @@ and run it in a physics simulation, all in your browser.
 ## What is GearCAD?
 
 GearCAD is a free, browser-based CAD for **VEX IQ** robots. There's nothing to
-install and no account to make: open [gearcad.web.app](https://gearcad.web.app)
+install and no account to make: open [gearcadengine.web.app](https://gearcadengine.web.app)
 and start building.
 
 It's made for teams who want to know a design works **before** they build it:
@@ -57,7 +57,7 @@ fast, and with how much torque, then press **Simulate** and drive it.
 
 ## Getting started
 
-1. Go to **[gearcad.web.app](https://gearcad.web.app)**.
+1. Go to **[gearcadengine.web.app](https://gearcadengine.web.app)**.
 2. Click **New CAD**, give it a name and pick a workspace (Mechanism, Robot or IQ Field).
 3. Drag parts in from the Parts list. **Help → Keyboard and mouse** lists every shortcut.
 
@@ -77,7 +77,7 @@ GearCAD uses [Semantic Versioning](https://semver.org): `MAJOR.MINOR.PATCH`.
 
 Builds before a version is finished are marked **alpha**, **beta** or **rc**
 (`0.1.0-alpha`, `0.1.0-beta.2`). Every version that goes live on
-gearcad.web.app has a [release](https://github.com/GearCAD-App/GearCAD-App/releases)
+gearcadengine.web.app has a [release](https://github.com/GearCAD-App/GearCAD-App/releases)
 here with what changed. The version you're using is in **Help → About**.
 
 ## Feedback
