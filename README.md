@@ -12,6 +12,8 @@
 
 [![Open GearCAD](https://img.shields.io/badge/Open_GearCAD-0167FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gearcadengine.web.app)
 &nbsp;
+[![Read official docs](https://img.shields.io/badge/Read_official_docs-1B1D22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://gearcad.pages.dev)
+&nbsp;
 [![Join our Discord](https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RmznzTAcDx)
 
 [![Latest release](https://img.shields.io/github/v/release/GearCAD-App/gearcad-engine?include_prereleases&sort=semver&label=latest&color=32D1FC)](https://github.com/GearCAD-App/gearcad-engine/releases)
