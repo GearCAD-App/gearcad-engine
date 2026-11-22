@@ -8,7 +8,7 @@
   </picture>
 </a>
 
-**Build VEX IQ robots in your browser, then watch them actually move.**
+**A VEX IQ cad engine you can actually test.**
 
 [![Open GearCAD](https://img.shields.io/badge/Open_GearCAD-0167FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gearcadengine.web.app)
 &nbsp;
