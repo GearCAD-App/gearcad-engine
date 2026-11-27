@@ -22,7 +22,8 @@
 
 [Releases](https://github.com/GearCAD-App/gearcad-engine/releases) ·
 [Report a bug](https://github.com/GearCAD-App/gearcad-engine/issues/new/choose) ·
-[Discord](https://discord.gg/RmznzTAcDx)
+[Discord](https://discord.gg/RmznzTAcDx) ·
+[YouTube](https://www.youtube.com/@gearcadengine)
 
 </div>
 
@@ -50,6 +51,7 @@ It's free and runs in your browser. No download, no account.
 | 📏 **Stay legal** | Show the VIQRC and RECF Engage starting size limits |
 | 🕓 **Never lose work** | Autosave and version history you can look back through in 3D |
 | 📸 **Render it** | Studio-quality pictures of your robot, up to 4K |
+| 🔁 **Works with LDCad** | Open LDCad and SnapCAD robots exactly as they were, and export back to LDCad |
 
 ## Get started
 
